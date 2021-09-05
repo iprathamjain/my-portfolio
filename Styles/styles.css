@@ -26,3 +26,22 @@ body{
 .button{
     padding: 1rem 1rem;
 }
+
+.list-no-bullet{
+    list-style: none;
+  }
+  
+  .list-item-inline{
+    display: inline;
+    padding: 0rem 1rem;
+  }
+
+  .link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+  
+  .list-no-bullet li a{
+    margin: 1rem 0rem 0rem 0rem;
+  }
+  
